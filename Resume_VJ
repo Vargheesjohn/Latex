@@ -1,0 +1,262 @@
+
+\documentclass[12pt, letterpaper]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{epigraph}
+\RequirePackage{color,graphicx}
+\usepackage{eso-pic} 
+\usepackage{hyperref}
+\usepackage{fontawesome}
+\usepackage{setspace}
+
+\begin{document}
+
+	\pagestyle{empty}
+
+	\graphicspath{ {C:/Users/hi/Desktop/} }
+
+	\AddToShipoutPicture*
+    	{\put(463,652.05){\includegraphics[scale=.8]{VJ_PASSPORT}}}
+	\begin{huge}
+		\textbf VARGHEES JOSEPH  \\
+	\end{huge}
+		\vspace{-.1cm}
+
+		\noindent\rule[1.2cm]{9cm}{1pt}
+		\vspace{-1.125cm}
+\faTwitter
+		\hspace{4pt} No. 52, New Street, Ayanavaram, Chennai
+
+		\hspace{4pt} 9789060768
+
+		\hspace{4pt} \href{mailto:Vargheesjohn013@gmail.com}{Vargheesjohn013@gmail.com} \\
+		\vspace{-.1cm}
+			
+		\noindent\rule[1cm]{17.2cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Educational Qualification\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-.9cm}
+
+	\begin{tabular}{rl}	
+		\vspace{.05cm}
+		$\overline{\textsc{June  } 2019}$ & Master of Philosophy in 							\textsc{Economics}, \textbf{University of Madras}, Chennai\\
+		\vspace{.05cm}
+		& Gpa \small\emph{(awaiting results)} | Major focus: Game Theory\\
+		\vspace{.1cm}
+		& Dissertation: ``A Meta-analysis of Ultimatum Games (Working title)'' \\
+
+		\vspace{.05cm}
+		\textsc{Apr  } 2018 & Master of Arts in \textsc{Economics}, 					\textbf{Loyola College}, Chennai\\
+		\vspace{.05cm}
+		& Gpa \small\emph{6.4} | Major focus: Behavioural economics\\
+		\vspace{.1cm}
+		& Dissertation: ``A study on impact of primary education in chennai region'' \\
+
+		\vspace{.05cm}
+		\textsc{Apr  } 2018 & Master of Arts in \textsc{Political Science}, 					\textbf{University of Madras}, Chennai\\
+		\vspace{.05cm}
+		& Under ``Institute of Distance Education'' \\
+		\vspace{.1cm}
+		& Gpa \small\emph{(awaited)} | Major focus: Polity and economics\\
+
+		\vspace{.05cm}
+		\textsc{Apr  } 2015 & Bachelor of Arts in \textsc{Economics}, 					\textbf{Loyola College}, Chennai\\
+		\vspace{.1cm}
+		& Gpa \small\emph{5.1} | Major focus: Microeconomics\\
+	\end{tabular}
+
+		\vspace{.2cm}
+		\noindent\rule[1cm]{17.2cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Professional Qualification\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-.9cm}
+
+	\begin{tabular}{rl}	
+		\vspace{.05cm}
+		\textsc{Jun  } 2019 & \textsc{Qualified for} \textbf{ Assistant Professor}\\
+		\vspace{.1cm}
+		& \small{UGC NET} |  Economics\\
+	\end{tabular}
+
+		\vspace{.2cm}
+		\noindent\rule[1cm]{17.2cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Certificate Courses\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-.9cm}
+
+	\begin{tabular}{rl}	
+		\vspace{.05cm}
+		\textsc{Jul  } 2019 & \textsc{IBM Data Science Professional Certificate} {(Coursera)} \\
+		\vspace{.1cm}
+		& \small\emph{IBM} | Major focus: \textbf{Data Science}\\
+		\vspace{.05cm}
+		\textsc{Mar  } 2019 & \textsc{Python for Everybody} {(Coursera)} \\
+		\vspace{.1cm}
+		& \small\emph{University of Michigan} | Major focus: \textbf{Python} \\
+		\vspace{.05cm}
+		$\overline{\textsc{Aug  } 2019}$ & \textsc{Behavioral Finance} {(Coursera)} \\
+		\vspace{.1cm}
+		& \small\emph{Duke University} | Major focus: \textbf{Economics and Behavioral science}\\
+	\end{tabular}
+
+		\vspace{.2cm}
+		\noindent\rule[1cm]{17.2cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Skills\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-1.3cm}
+
+	\begin{table}[h!]
+	\begin{tabular}{cc}
+    	\begin{minipage}{.5\linewidth}
+        	\begin{tabular}{|c|c|}
+        	\hline
+            	Software & level of proficiency \\ [0ex]
+        	\hline\hline
+            	M. S. Office & Fine level of proficiency \\ 
+            	Latex & Moderate level of proficiency \\ 
+            	R & Limited level of proficiency \\ 
+            	SPSS & Moderate level of proficiency \\ 
+            	Python & Limited level of proficiency \\ 
+			\hline
+        	\end{tabular}
+    	\end{minipage} 
+    	&
+		\begin{minipage}{.5\linewidth}
+        	\begin{tabular}{|c|c|}
+        	\hline
+            	Language & level of proficiency \\ 
+	        \hline\hline
+        	    Tamil & Native level of proficiency \\ 
+            	Malayalam & Limited level of proficiency \\ 
+    	        English & Native level of proficiency \\ 
+			\hline
+        	\end{tabular}
+		\end{minipage}\end{tabular}
+	\end{table}
+
+
+\pagebreak
+
+	\begin{Large}
+		\textbf Experience \\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-.9cm}
+
+	\begin{tabular}{rl}	
+		\vspace{.05cm}
+		\textsc{Apr} 2019 & Personal tutor for, \textbf{Class XII}, CBSE/State (2.5years)\\
+		\vspace{.1cm}
+		  & Accountancy, Economics, Business Studies, Entrepreneurship\\
+
+		\vspace{.05cm}
+		\textsc{June} 2018 & Research Assistant at, \textbf{CDS}, Trivandrum\\
+		\vspace{.1cm}
+		& Project: \textsc{Migration Studies} | Guide: Prof. Iruthayaraj \\
+
+		\vspace{.05cm}
+		\textsc{Aug} 2015 & Assistant event organizer at 		\textsc{Eventlicious}, Chennai\\
+		\vspace{.1cm}
+		& (Freelancer) \small\emph{} | (Area of expertise: Management of responsibilities)\\
+
+		\vspace{.05cm}
+		\textsc{May} 2015 & Executive Client Relation at \textsc{Magic Trips}\\
+		\vspace{.1cm}
+		& 2 months \small\emph{} | (Area of expertise: Client interaction)\\
+
+		\vspace{.05cm}
+		\textsc{Dec} 2014 & Assistant HR at \textsc{Pantaloons}, Chennai\\
+		\vspace{.1cm}
+		& 1 month \small\emph{} | (Area of expertise: delegation of work)\\
+		
+	\end{tabular}
+
+		\vspace{.2cm}
+		\noindent\rule[1cm]{17.2cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Co-curricular activities\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-1cm}
+
+	\begin{tabular}{rl}	
+		\vspace{.1cm}
+		\textsc{2018-19 }  & \textsc{Workshop} | {Research methodology for research scholars} \\
+		\vspace{.1cm}
+		& \small\emph{Dept of Economics,} University of Madras\\
+		\textsc{2017-18 }  & \textsc{GST in India} | {participated \& presented a paper} \\
+		\vspace{.1cm}
+		& \small\emph{Dept of Economics,} Voorhees College\\
+		\textsc{2017-18 }  & \textsc{UOM elocution/essay competition} | {participated in Essay writing} \\
+		\vspace{.1cm}
+		& \small\emph{Dept of Economics,} University of Madras\\
+		\textsc{2016-17 }  & \textsc{diligence \& regularity award} | {100\% attendance} \\
+		\vspace{.1cm}
+		& \small\emph{Dept of Economics,} Loyola College\\
+		\textsc{2014-15 }  & \textsc{EQUILIBRIUM} | {Cultural coordinator} \\
+		\vspace{.1cm}
+		& \small\emph{Dept of Economics,} Loyola College\\
+		\textsc{2014-15 }  & \textsc{DIV (Dept Industrial Visit)} |  {Organizer} \\
+		\vspace{.1cm}
+		& \small\emph{Dept of Economics,} Loyola College\\
+		\textsc{2012-13 }  & \textsc{ECOLADES} | {participated in Quiz} \\
+		\vspace{.1cm}
+		& \small\emph{Dept of Economics,} Ethiraj College for Women\\
+		\textsc{2012-13 }  & \textsc{D.C.A} | {Certificate course} \\
+		\vspace{.1cm}
+		& \small\emph{Jershe computer education,} Chennai\\
+	\end{tabular}
+
+		\vspace{.2cm}
+		\noindent\rule[1cm]{17.2cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Declaration\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-1cm}
+
+
+I, Varghees Joseph, hereby declare that the details furnished above are true and correct to the best of my knowledge and belief and I undertake to inform you of any changes therein, immediately. \\
+
+		\vspace{.3cm}
+
+\hspace{4pt} Date: \\
+
+\hspace{4pt} Place: Chennai \hspace{10.5cm} \textbf{(Varghees Joseph)}\\
+
+\end{document}
+
