@@ -9,7 +9,6 @@
 \usepackage{fontawesome}
 \usepackage{setspace}
 
-
 \begin{document}
 
 	\pagestyle{empty}
