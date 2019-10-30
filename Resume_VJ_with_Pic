@@ -1,5 +1,5 @@
 
-\documentclass[12pt, letterpaper]{article}
+\documentclass[12pt, letterpaper]{article} 
 \usepackage[margin=0.75in]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage{epigraph}
