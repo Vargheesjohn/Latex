@@ -1,0 +1,292 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[margin=.6in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{epigraph}
+\RequirePackage{color,graphicx}
+\usepackage{eso-pic} 
+\usepackage{hyperref}
+\usepackage{fontawesome}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{tabularx}
+
+\begin{document}
+
+	\pagestyle{empty}
+
+	\begin{center}
+	\begin{huge}
+		\textbf VARGHEES JOSEPH  \\
+	\end{huge}
+
+		\vspace{.1cm}
+
+		\hspace{0pt}		
+		\noindent\rule[1.2cm]{8.2cm}{1pt}
+		\vspace{-1.125cm}
+
+		 \href{https://goo.gl/maps/44Jj2H5x7cCR2jrs7}{No. 52, New Street, Chennai, India}
+
+		 9789060768
+		\hspace{8pt} 				\href{mailto:Vargheesjohn013@gmail.com}	{Vargheesjohn013@gmail.com} 
+		
+		\vspace{.1cm}
+		
+		\hspace{2pt} 
+\href{https://sites.google.com/view/vargheesjoseph/home}{\faGlobe}
+		\hspace{24pt} 
+\href{https://www.linkedin.com/in/vargheesjohn/}{\faLinkedinSquare}
+		\hspace{24pt}
+\href{mailto:Vargheesjohn013@gmail.com}{\faGoogle}
+		\hspace{24pt}
+\href{https://github.com/Vargheesjohn}{\faGithubSquare}
+		\vspace{-.1cm}
+	\end{center}
+
+		\noindent\rule[1cm]{18.5cm}{1pt} \\
+		\vspace{-2cm}
+\begin{center}
+	\begin{Large}
+		\textbf Research Interests\\
+	\end{Large}
+		\vspace{0.1cm}
+		\hspace{0pt}		
+		\noindent\rule[1.2cm]{4.5cm}{1pt}
+		\vspace{-1cm}
+\end{center}
+		\vspace{-1cm}
+\begin{center}
+	\begin{tabular}{ c c c c }
+		Behavioral Sciences & Game Theory & Data Science  & Bayesian Statistics  \\
+		Experimental  Economics & Public Economics & Machine Learning & Statistical Modeling \\
+		Microeconometrics & Decision theory & Deep Learning & probability theory
+	\end{tabular}
+\end{center}
+
+		\noindent\rule[1cm]{18.5cm}{1pt}
+
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Educational Qualification\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-.9cm}
+
+	\begin{tabular}{rl}	
+		\vspace{.05cm}
+		$\overline{\textsc{Dec  } 2019}$ & Master of Science in \textsc{Psychology}, 					\textbf{University of Madras}, Chennai\\
+		\vspace{.05cm}
+		& Under ``Institute of Distance Education'' \\
+		\vspace{.1cm}
+		& Gpa \small\emph{(awaiting)} | Major focus:  \textit{General and Social Psychology}\\
+
+		\vspace{.05cm}
+		\textsc{Jun  } 2019 & Master of Philosophy in 							\textsc{Economics}, \textbf{University of Madras}, Chennai\\
+		\vspace{.05cm}
+		& Gpa \small\emph{7.73} | Major focus: \textit{Game Theory}\\
+		\vspace{.1cm}
+		& Dissertation: Economics of Rational Decision Making under Constraints \\
+
+		\vspace{.05cm}
+		\textsc{Apr  } 2018 & Master of Arts in \textsc{Economics}, 					\textbf{Loyola College}, Chennai\\
+		\vspace{.05cm}
+		& Gpa \small\emph{6.4} | Major focus: \textit{Behavioural economics}\\
+		\vspace{.1cm}
+		& Dissertation: A study on impact of primary education in Chennai region \\
+
+		\vspace{.05cm}
+		\textsc{Apr  } 2018 & Master of Arts in \textsc{Political Science}, 					\textbf{University of Madras}, Chennai\\
+		\vspace{.05cm}
+		& Under ``Institute of Distance Education'' \\
+		\vspace{.1cm}
+		& Gpa \small\emph{(awaiting)} | Major focus: \textit{Polity and economics}\\
+
+		\vspace{.05cm}
+		\textsc{Apr  } 2015 & Bachelor of Arts in \textsc{Economics}, 					\textbf{Loyola College}, Chennai\\
+		\vspace{.1cm}
+		& Gpa \small\emph{5.1} | Major focus: \textit{Microeconomics}\\
+	\end{tabular}
+
+		\vspace{.2cm}
+		\noindent\rule[1cm]{18.5cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Research Experience \\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-.9cm}
+
+	\begin{tabular}{rl}	
+
+		\vspace{.05cm}
+		\textsc{Present } & Research Assistant, \textbf{Center for Applied Research in DataScience}, IIMT\\
+		\vspace{.1cm}
+		& Project: \textsc{Common Service Centers} | Head: Prof. Sujeet. K. Sharma \\
+
+		\vspace{.05cm}
+		\textsc{June} 2018 & Research Assistant at, \textbf{Center for Development Studies}, Trivandrum\\
+		\vspace{.1cm}
+		& Project: \textsc{Migration Studies} | Guide: Prof. Iruthayaraj \\
+	
+	\end{tabular}
+
+		\vspace{.2cm}
+		\noindent\rule[1cm]{18.5cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Dissertation works \\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-.9cm}
+
+	\begin{tabular}{rl}	
+
+		\vspace{.05cm}
+		\textsc{Jun } 2019 & Dissertation: \textbf{Economics of Rational Decision Making under Constraints} \\
+		\vspace{.1cm}
+		& Focus: Behavioral analysis of participants through Ultimatum and Dictator Games \\
+
+		\vspace{.05cm}
+		\textsc{Apr } 2018 & Dissertation: \textbf{A study on impact of primary education in Chennai region} \\
+		\vspace{.1cm}
+		& Focus: Analysis on the cognitive abilities of children with reference to their schools \\
+	\end{tabular}
+
+		\vspace{.2cm}
+		\noindent\rule[1cm]{18.5cm}{1pt}
+		\vspace{-.6cm}
+
+\pagebreak
+
+		\vspace{.2cm}
+		\noindent\rule[1cm]{18.5cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Professional Qualification\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-.9cm}
+
+	\begin{tabular}{rl}	
+		\vspace{.05cm}
+		\textsc{Jun  } 2019 & Qualified for  \textsc{\textbf{Assistant Professor}} \\
+		\vspace{.05cm}
+		& UGC NET | Economics \\
+	\end{tabular}
+
+		\vspace{.2cm}
+		\noindent\rule[1cm]{18.5cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Co-curricular activities\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-1cm}
+
+	\begin{tabular}{rl}	
+		\vspace{.1cm}
+		\textsc{2018-19 }  & Workshop | {Research methodology for research scholars} \\
+		\vspace{.1cm}
+		& \small{Dept of Economics,} University of Madras\\
+		\textsc{2017-18 }  & GST in India | {participated \& presented a paper} \\
+		\vspace{.1cm}
+		& \small{Dept of Economics,} Voorhees College\\
+		\textsc{2016-17 }  & Diligence \& Regularity award | {100\% attendance} \\
+		\vspace{.1cm}
+		& \small{Dept of Economics,} Loyola College\\
+		\textsc{2014-15 }  & Equilibrium | {Cultural coordinator} \\
+		\vspace{.1cm}
+		& \small{Dept of Economics,} Loyola College\\
+		\textsc{2012-13 }  & Ecolades | {won 3rd place in Quiz} \\
+		\vspace{.1cm}
+		& \small{Dept of Economics,} Ethiraj College for Women\\
+		\textsc{2012-13 }  & Diploma in Computer Applications | {Certificate course} \\
+		\vspace{.1cm}
+		& \small{Jershe computer education,} Chennai\\
+	\end{tabular}
+
+		\vspace{.2cm}
+		\noindent\rule[1cm]{17.2cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Technical skills\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-.9cm}
+
+\begin{tabularx}{0.8\textwidth} { 
+   >{\raggedright\arraybackslash}X 
+   >{\raggedright\arraybackslash}X  }
+		\textsc{M.S.Office } & \hspace{-4cm} Fine level of proficiency \\
+		\textsc{LaTeX } & \hspace{-4cm} Moderate level of proficiency \\
+		\textsc{R } & \hspace{-4cm} Limited level of proficiency \\
+		\textsc{SQL } & \hspace{-4cm} Limited level of proficiency \\
+		\textsc{Python } & \hspace{-4cm} Limited level of proficiency \\
+		\textsc{Tableau } & \hspace{-4cm} Limited level of proficiency \\
+\end{tabularx}
+
+		\vspace{0.2cm}
+		\noindent\rule[1cm]{17.2cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf Languages known\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-.9cm}
+
+\begin{tabularx}{0.8\textwidth} { 
+   >{\raggedright\arraybackslash}X 
+   >{\raggedright\arraybackslash}X  }
+		\textsc{Tamil } & \hspace{-4cm} Native level of proficiency \\
+		\textsc{English } & \hspace{-4cm} Native level of proficiency \\
+		\textsc{Malayalam } & \hspace{-4cm} Limited level of proficiency \\
+\end{tabularx}
+
+		\vspace{0.2cm}
+		\noindent\rule[1cm]{17.2cm}{1pt}
+		\vspace{-.6cm}
+
+	\begin{Large}
+		\textbf List of Referees\\
+	\end{Large}
+
+		\vspace{-.4cm}
+		\noindent\rule[1.2cm]{7cm}{1pt}
+		\vspace{-1.2cm}
+\begin{center}
+\begin{tabularx}{0.8\textwidth} { 
+   >{\raggedright\arraybackslash}X 
+   >{\raggedright\arraybackslash}X  }
+
+	Dr. Sujeet K. Sharma & Dr. Elango J. Parimalam\\
+	Associate Professor & Associate Professor \\
+	Information Systems \& Analytics & Head, Department of Economics\\
+	Indian Institute of Management & Loyola College\\
+	Tiruchirapalli, India & Chennai, India \\
+	+91 432 2505080	& +91 9444478218 \\
+	sujeet@iimtrichy.ac.in & elangoparimalam@gmail.com \\
+\end{tabularx}
+\end{center}
+
+\end{document}
