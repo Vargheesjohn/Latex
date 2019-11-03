@@ -1,0 +1,144 @@
+\documentclass[25pt, a0paper, portrait]{tikzposter}
+\usepackage[utf8]{inputenc} 
+% \usepackage{blindtext} - Use this for sample text
+\usepackage{comment} 
+% \usetheme{Board} - Use this but kinda shitty design tho
+\RequirePackage{color,graphicx}
+\usepackage{eso-pic} 
+\usepackage{graphicx}
+\graphicspath{{C:/Users/IIMT/Downloads}}
+\usepackage{multicol}
+%-----------------------------------------------
+% Headings
+%-----------------------------------------------
+ \title{ECONOMICS OF RATIONAL DECISION MAKING}
+ \author{A study on Ultimatum and Dictator games}
+ \institute{\textbf{VARGHEES JOSEPH \\ Master of philosphy in Economics \\ Department of Economics, University of Madras, Chennnai, India.}} 
+%-----------------------------------------------
+% Document begins
+%----------------------------------------------- 
+\begin{document} 
+%-----------------------------------------------
+% The title
+%-----------------------------------------------
+ \maketitle
+%-----------------------------------------------
+%-----------------------------------------------
+% Four Columns
+%-----------------------------------------------
+\begin{columns}
+\column{0.25} % 0.25 means 25% of the page
+\block{Introduction}
+{
+Traditional economics assumes and follows the concept of Homo economics i.e. rational human who knows what he is doing but however extant researches proves otherwise which leads us to the fundamental stimuli of our research topic. \\ 
+Therefore the prime aim of this research is devoted in understanding how rational are humans in reality or are they rational at all and how does it affect us in making decisions. \\ 
+This study also tries to reveal how people make decisions trying to be rational under the same situations but given various options. Also we try to find out whether people are as rational as economics assumes them to be, especially when it comes to decision making under various conditions. Ultimatum and Dictator games are used for this purpose}
+\column{0.25}
+\block{Objectives}{The study intends in understanding and analyzing the economics of rational decision making under constraints. Here the constraints are defined through the ultimatum and dictator game. \\
+For this purpose the objectives of the study are confined to \\
+\coloredbox{\begin{itemize}
+\item A descriptive analysis of Ultimatum and Dictator Games \\
+\item To find out if the participants rationalize their choices over time \\
+\item To find out the relation between the nature of the players (Decision making skills and Risk Propensity to Scale) and the respective choices they make in the game 
+\end{itemize}}}
+\column{0.5}
+\block{Research Protocol}{The experiment was conducted among the students of University of Madras with a sample of 20 participants selected at random. The participants were given orientation regarding the nature of the study after which they were divided into two groups. Participants from both the groups played the Dictator and Ultimatum game under various scenarios. Every participant had an opportunity to play as both proposer and acceptor. Each participants played 4 rounds of Ultimatum and Dictator games. All the Players were given 100 points per game. For every 10 points the participant were paid INR. 1. The participants were also asked to fill in a survey. The survey included 26 questions intending to assess the behavior of the participants in terms of Risk Propensity to Scale and Decision Making Scale. \\
+In the \textbf{Dictator Game}, the dictator, determines how to split an endowment (such as a cash prize) between him/her and the second player. The dictator's action space is complete and therefore is at their own will to determine the endowment, which means that the recipient has no influence over the outcome of the game. \\
+In the \textbf{Ultimatum Game}, the proposer, is endowed with a sum of money. The proposer is tasked with splitting it with another player, the responder. Once the proposer communicates their decision, the responder may accept it or reject it. If the responder accepts, the money is split per the proposal; if the responder rejects, both players receive nothing. Both players know in advance the consequences of the responder accepting or rejecting the offer. }
+\end{columns}
+\begin{columns}
+\column{0.25} % 0.25 means 25% of the page
+\block{Result I}
+{
+\begin{center}
+\includegraphics[scale=.4]{Obj1} \\
+\end{center}
+The table above shows us the mean values offered by each participant on a whole. We could see that most minimal offer made by the participant (Gokulnath) is 10 points while the maximum winning made by the participant (Ramcharan, Tiny, Jennifer, Arunkumar) is 99 points. Based on the table we can also find that mean values of the made by the participants range from as minimum as 42.50 to as maximum as 71.13. \\
+This proves the provided as the people comes to know that their powers are less or minimized (Ultimatum Game) they tend to be more just and follow ethical morale while the same exploit if given ultimate power (Dictator Game)
+}
+\column{0.5} % 0.25 means 25% of the page
+\block{Result II}
+{
+\begin{center}
+\includegraphics[scale=.4]{Obj2a} \\
+\end{center}
+We could see that we have downward sloping curve unlike the upward sloping curve that’s been depicted in the Ultimatum Game. It explains that the total winnings of the proposers continue to be increasing as they were able to rationalize their choice of making an offer based on their understanding as they continue to play each round. We could see that players in the first round were making offers that are somewhat seems to be fair but however by the second round and after that there is an obvious shift in their offers. It happens so mostly because of their rationalizing skill. \\
+\begin{center}
+\includegraphics[scale=.4]{Obj2b} \\
+\end{center}
+The upward sloping curve explain that the total winnings of the proposers continue to be increasing as they were able to rationalize their choice of making an offer based on their understanding as they continue to play each round. We could form up a conclusion that players tend to make obnoxious offers in the first round and gets their offers rejected from their acceptors but however as they progress to each rounds we could see a difference in their rate of total winnings implying that they somehow able to learn the dynamics of the game’s nature come up with a convincing offer which is being accepted ultimately fetching both the parties some points in each round. \\
+}
+\column{0.25} % 0.25 means 25% of the page
+\block{Result III}
+{
+\begin{center}
+\includegraphics[scale=.4]{Obj3}
+\end{center}
+This table provides us with equation that has been predicted through the binary logistic regression. The equation is as follows \\
+\begin{center}
+$ y = 6.906 - 0.066(offer value) + 1.958(DMS) - 0.819(RPS) - 0.333(Gender) $
+\end{center}
+The above equation helps in enhancing our understanding on the predictions of working of our experiment’s model. According to the equation We could see, that the offer value (0.66), risk propensity to scale (0.81) and the gender (0.33) has a negative impact on the offer being accepted while the decision making skill of the proposer positively affects the offer being accepted by 1.958 percent.
+}
+\end{columns}
+\begin{columns}
+\column{0.25} % 0.25 means 25% of the page
+\block{Conclusion}
+{
+The study results stands as significant evidence in terms of understanding and analyzing the economics of rational decision making under constraints. Here the constraints are defined through the ultimatum and dictator game. We tried to analyze the decision making skill of the selected participants with respect to various factors like Gender, Decision Making Skill, Risk Propensity to Scale, Authoritative Power. The findings of study turns out to be reasonable on the grounds of how the nature of humans and their brain work when various stimuli are controlled.
+}
+\column{0.25} % 0.25 means 25% of the page
+\block{Limitations}
+{
+The lack of technological aids that is extensively required for conducting the experiments stand as a major obstacle in progressing towards the completion of the study. It also is worth mentioning that, based on my sole experience during the time of making the study, the very limited availability of subject experts specialized in the field of Game theory, Behavioral Economics, Experimental Economics makes it even more difficult to go on with completing the study.
+}
+\column{0.25} % 0.25 means 25% of the page
+\block{Future Research}
+{
+The scope of the study is widespread and could be extended as an interdisciplinary research because of it's nature. While the study points out the anomalies of decision making it could be further developed to provide solutions to such anomalies. It could then be applied many fields and disciplines where the aspect of decision making may be crucial. Some potential situations where this study could be of use may include Firm Union negotiations; Bilateral trade negotiations; Negotiations between disputing countries and so on.
+}
+\column{0.25} % 0.25 means 25% of the page
+\block{References}
+{
+\begin{itemize}
+    \item Von Neumann, J., & Morgenstern, O. (1947). Theory of games and economic behavior, 2nd rev.
+    \item Güth, W., Schmittberger, and Schwarze (1982). "An Experimental Analysis of Ultimatum Bargaining". Journal of Economic Behavior and Organization. 3 (4): 367–388.
+    \item Sanfey; Rilling, JK; et al. (2002). "The neural basis of economic decision-making in the ultimatum game".
+\end{itemize}
+}
+\end{columns}
+\end{document}
+%-----------------------------------------------
+% 
+%-----------------------------------------------
+%-----------------------------------------------
+% Text throughout the block
+%-----------------------------------------------
+\block{~}
+{
+    \blindtext
+}
+%-----------------------------------------------
+% To Include Pictures
+%-----------------------------------------------
+\begin{columns}
+    \column{0.5}
+    \block{A figure}
+    {
+        \begin{tikzfigure}
+            \includegraphics[width=0.4\textwidth]{images/lion-logo.png}
+        \end{tikzfigure}
+    }
+    \column{0.5}
+    \block{Description of the figure}{\blindtext}
+\end{columns}
+%-----------------------------------------------
+% To make a Note
+%-----------------------------------------------
+    \note[
+        targetoffsetx=-9cm, 
+        targetoffsety=-6.5cm, 
+        width=0.5\linewidth
+        ]
+        {e-mail \texttt{welcome@overleaf.com}}
+%-----------------------------------------------
