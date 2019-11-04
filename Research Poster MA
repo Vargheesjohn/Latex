@@ -1,0 +1,191 @@
+\documentclass[25pt, a0paper, portrait]{tikzposter}
+\usepackage[utf8]{inputenc} 
+% \usepackage{blindtext} - Use this for sample text
+\usepackage{comment} 
+\usetheme{Simple} % - Use this but kinda shitty design tho
+\RequirePackage{color,graphicx}
+\usepackage{eso-pic} 
+\usepackage{graphicx}
+\graphicspath{{C:/Users/IIMT/Downloads}}
+\usepackage{multicol}
+%-----------------------------------------------
+% Headings
+%-----------------------------------------------
+ \title{Impact of primary Education in Chennai}
+ \author{A study on level of acquaintance of school children on education \\
+ (in terms of their Cognitive abilities, communication, general knowledge)}
+ \institute{\textbf{VARGHEES JOSEPH \\ 
+ Master of Arts in Economics \\ 
+ \vspace{0.4em}
+ Department of Economics, Loyola College, Chennnai, India.}} 
+%-----------------------------------------------
+% Document begins
+%----------------------------------------------- 
+\begin{document} 
+%-----------------------------------------------
+% The title
+%-----------------------------------------------
+ \maketitle
+%-----------------------------------------------
+%-----------------------------------------------
+% Four Columns
+%-----------------------------------------------
+\begin{columns}
+\column{0.25} % 0.25 means 25% of the page
+\block{ \begin{center}Introduction\end{center}}
+{
+Education is the demonstration of learning things around us. It encourages us to effectively comprehend and manage any issue and makes adjust all through the entire life in
+each perspective. Education is, as a matter of fact, the important privilege for any individual. Without lessons we are deficient and our lives are pointless. Education encourages us to set an objective and proceed by taking a shot at that for the duration of the life. \\
+Therefore for an economy to sustain its growth and development in the long run it is obligatory that it should have proper well educated citizens. It applies to every economy irrespective of whether or not it’s an UDC or developing or developed country. Hence for an emerging economy like India it is important to clarify that it qualifies the necessary basic educational qualification.
+}
+\column{0.25}
+\block{ \begin{center}Objectives\end{center}}
+{
+The objectives of this particular study may be confined on the basis of exploratory, descriptive and causal relationships. Other than those, the study also would aim to find the underlying problems in the education system and provide effective suggestions. \\
+The primary objectives of this study therefore are \\
+\coloredbox{\begin{itemize}
+\item To study the level of acquaintance of school children on education (in terms of their Cognitive abilities, communication, general knowledge)
+\item To find out the causal relationship between the level of education and the factors influencing it.
+\item To understand the life pattern of the children; 
+\end{itemize}}}
+\column{0.25}
+\block{ \begin{center}Statement of problem\end{center}}
+{
+The problem with the Indian education roots from  very fundamental aspects. The syllabus lacks essential and fundamental research resulting in poor, unstructured educational model. The main focal point of this study is twofold. \\
+On one hand we chiefly focuses on the level of knowledge each child has gained through school education. In order to ascertain that we have included a small quiz segment in our survey. \\
+On the other hand the study yearns to uncover the life pattern of the children and also to find out the causal relationship between the level of education and the factors influencing it. That being said it is also worth mentioning that the questions for the survey were also prepared keeping those objectives in mind.
+}
+\column{0.25}
+\block{ \begin{center}Profile of the study\end{center}}
+{
+Primary data is the basic source of data for the study. However we’ve also used some secondary sources for precision and for the sake of comparison of results. The data were collected from the children residing in Santhosh nagar and Puliyur. The data has been gathered using questionnaire method. Some secondary data that’s been made use to validate the study’s correctness includes articles, books, journals, newspapers etc. Questionnaire method is used to collect primary data from the respondents. A well designed questionnaire was prepared with the assistance of Google forms which included multiple choice questions (Quiz), checklists and open ended questions. A pilot study has also been made to modify the questionnaire to collect the relevant information for the study.
+}
+\end{columns}
+\begin{columns}
+\column{0.25} % 0.25 means 25% of the page
+\block{ \begin{center}Result I\end{center}}
+{
+\begin{center}
+H$_{0}$: There is no profound association 
+between the type of school and whether 
+or not the students speak English \\
+H$_{1}$: There is a profound association  between the type of school and whether 
+or not the students speak English
+\end{center}
+\bigskip
+\begin{center}
+\includegraphics[scale=.3]{ChiSq} \\
+\end{center}
+Since the p-value is less than our chosen significance level $\alpha$ = 0.05, we can reject the null hypothesis, and conclude that there is a profound association between the type of school and whether or not the students speak English. In other words there is a relationship between the type of school the respondent studying and whether or not he is able to converse in speak English.
+}
+\column{0.25} % 0.25 means 25% of the page
+\block{ \begin{center}Result II\end{center}}
+{
+\begin{center}
+H$_{0}$: There is no profound association between the type of the school and ability to speak English \\
+H$_{1}$: There is a profound association  between the type of the school and ability to speak English
+\end{center}
+\bigskip
+\begin{center}
+\includegraphics[scale=.6]{Cor2} \\
+\end{center}
+Cells pertaining to the type of the school and ability to speak English contain the correlation coefficient for the correlation between type of the school and ability to speak English, and its p-value. Type of the school and the ability to speak English has a statistically significant linear relationship (p < .001). Therefore we conclude stating that there is an association between the type of the school and ability to speak English.
+}
+\column{0.25} % 0.25 means 25% of the page
+\block{ \begin{center}Result III\end{center}}
+{
+\begin{center}
+H$_{0}$: There is no profound association between the type of school and ability to understand English \\
+H$_{1}$: There is a profound association  between the type of school and ability to understand English 
+\end{center}
+\bigskip
+\begin{center}
+\includegraphics[scale=.6]{Cor3} \\
+\end{center}
+Cells pertaining to the type of the school and the ability to understand English contain the correlation coefficient for the correlation between type of the school and ability to understand English, and its p-value. Type of the school and the ability to understand English has a statistically significant linear relationship (p < .001). Therefore we conclude stating that there is an association between the type of the school and ability to understand English.
+}
+\column{0.25} % 0.25 means 25% of the page
+\block{ \begin{center}Result IV\end{center}}
+{
+\begin{center}
+H$_{0}$: There is no profound association between to speak English and ability to understand English \\
+H$_{1}$: There is a profound association between to speak English and ability to understand English 
+\end{center}
+\bigskip
+\begin{center}
+\includegraphics[scale=.6]{Cor4} \\
+\end{center}
+Cells pertaining to the ability to speak English and the ability to understand English contain the correlation coefficient for the correlation between ability to speak English and ability to understand English, and its p-value. Ability to speak English and the ability to understand English has a statistically significant linear relationship (p < .001). Therefore we conclude stating that there is an association between ability to speak English and ability to understand English.
+}
+\end{columns}
+\begin{columns}
+\column{0.25} % 0.25 means 25% of the page
+\block{ \begin{center}Conclusion\end{center}}
+{
+Based on outcomes of the study we can recognize the need for schools to be more creative to address the issues of every one of their students. Both the teachers and parents should identify and respond to the aspirations, strengths, culture and needs of the students. They should act as a well paved pathway in which the children can walk through to achieve their passion and aspirations and more regulation is needed from the end of government if all Indian students are to get a fair chance at a good education
+}
+\column{0.25} % 0.25 means 25% of the page
+\block{ \begin{center}Limitations\end{center}}
+{
+The study has encountered certain limitations in terms of collecting, analyzing and interpreting the data. Also since the area of study pertains only to a small part of Tamilnadu region (Santhosh nagar and Puliyur) it may lack in serving us with precise results. Limitations with regard to time may also affect the quality of the project. Reluctance and in some cases exaggerated views of respondents have also stood as hindrance in maintaing the accuracy of data.
+}
+\column{0.25} % 0.25 means 25% of the page
+\block{ \begin{center}Recommendations\end{center}}
+{
+\begin{itemize}
+    \item Aptitude Based Learning
+    \item Basic Computer Skills Classes
+    \item Smart Classes
+    \item E-libraries
+    \item Educate Parents
+    \item Instructors Training
+    \item Special subsidies and grants for education
+    \item Spotlight on Rural Education
+    \item ICT penetration
+\end{itemize}
+}
+\column{0.25} % 0.25 means 25% of the page
+\block{ \begin{center}References\end{center}}
+{
+\begin{itemize}
+    \item Kingdon, G. G. (2007). The progress of school education in India. Oxford Review of Economic Policy.
+    \item Banerjee, A. V., Banerji; et al. (2010). Pitfalls of participatory programs: Evidence from a randomized evaluation in education in India. American Economic Journal: Economic Policy.
+    \item Duraisamy, P. (2002). Changes in returns to education in India, 1983–94: by gender, age-cohort and location. Economics of Education Review.
+\end{itemize}
+}
+\end{columns}
+\end{document}
+%-----------------------------------------------
+% 
+%-----------------------------------------------
+%-----------------------------------------------
+% Text throughout the block
+%-----------------------------------------------
+\block{~}
+{
+    \blindtext
+}
+%-----------------------------------------------
+% To Include Pictures
+%-----------------------------------------------
+\begin{columns}
+    \column{0.5}
+    \block{A figure}
+    {
+        \begin{tikzfigure}
+            \includegraphics[width=0.4\textwidth]{images/lion-logo.png}
+        \end{tikzfigure}
+    }
+    \column{0.5}
+    \block{Description of the figure}{\blindtext}
+\end{columns}
+%-----------------------------------------------
+% To make a Note
+%-----------------------------------------------
+    \note[
+        targetoffsetx=-9cm, 
+        targetoffsety=-6.5cm, 
+        width=0.5\linewidth
+        ]
+        {e-mail \texttt{welcome@overleaf.com}}
+%-----------------------------------------------
