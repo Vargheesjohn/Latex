@@ -237,10 +237,10 @@
    >{\raggedright\arraybackslash}X  }
 		\textsc{M.S.Office } & \hspace{-4cm} Fine level of proficiency \\
 		\textsc{LaTeX } & \hspace{-4cm} Moderate level of proficiency \\
-		\textsc{R } & \hspace{-4cm} Limited level of proficiency \\
-		\textsc{SQL } & \hspace{-4cm} Limited level of proficiency \\
+		\textsc{R } & \hspace{-4cm} Moderate level of proficiency \\
+		\textsc{Tableau } & \hspace{-4cm} Moderate level of proficiency \\
 		\textsc{Python } & \hspace{-4cm} Limited level of proficiency \\
-		\textsc{Tableau } & \hspace{-4cm} Limited level of proficiency \\
+		\textsc{SQL } & \hspace{-4cm} Limited level of proficiency \\
 \end{tabularx}
 
 		\vspace{0.2cm}
@@ -273,7 +273,7 @@
 
 		\vspace{-.4cm}
 		\noindent\rule[1.2cm]{7cm}{1pt}
-		\vspace{-1.2cm}
+		\vspace{-1.4cm}
 \begin{center}
 \begin{tabularx}{0.8\textwidth} { 
    >{\raggedright\arraybackslash}X 
@@ -288,5 +288,9 @@
 	sujeet@iimtrichy.ac.in & elangoparimalam@gmail.com \\
 \end{tabularx}
 \end{center}
+
+		\vspace{-0.3cm}
+		\noindent\rule[1cm]{17.2cm}{1pt}
+		\vspace{-.6cm}
 
 \end{document}
